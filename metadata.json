@@ -1,0 +1,6 @@
+{
+  "name": "MedRecord Pro - Historia Clínica Electrónica",
+  "description": "Plataforma profesional de Historia Clínica Electrónica (HCE/EMR) con gestión de consultas médicas, modelo SOAP, filiación completa, CIE-10 y especificación de arquitectura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
